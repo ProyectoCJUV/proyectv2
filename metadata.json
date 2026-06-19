@@ -1,0 +1,6 @@
+{
+  "name": "Portal de Tarjetas 3D",
+  "description": "Portal de enlaces interactivos con tarjetas 3D y soporte para tema claro/oscuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
